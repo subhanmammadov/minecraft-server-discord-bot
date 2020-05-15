@@ -1,0 +1,56 @@
+{
+  "//1": "bu proje technp grup tarafından yapılmıştır!",
+  "//2": "www.technogrup.tk",
+  "//3": "Lütfen Çalmayın",
+  "name": "minecraft-sunucu-botu",
+  "version": "15.05.20",
+  "description": "Minecraft sunucu istatistliğini gösteren discord botu!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "chalk": "^2.4.2",
+    "cleverbot.io": "^1.0.4",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "moment-timezone": "^0.5.21",
+    "ms": "^2.1.2",
+    "quick.db": "^7.0.0-b22",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "speedtest-net": "^1.4.3",
+    "steam-provider": "^0.3.2",
+    "superagent": "^4.0.0-beta.5",
+    "useful-tools": "^0.0.21",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.29.4",
+    "dblapi.js": "^2.3.0",
+    "jimp": "^0.6.4",
+    "node-superfetch": "^0.1.9",
+    "node-opus": "^0.3.2",
+    "mineflayer": "^2.12.0",
+    "js-base64": "^2.5.2"
+ 
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/minecraft-sunucu-botu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "techno",
+    "code",
+    "developer community"
+  ]
+}
